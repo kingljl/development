@@ -8,7 +8,7 @@ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install
 ```
 # Replace zshrc file
 ```
-cp -R Documents/zshrc ~/.zshrc
+cp -R Your Path/zshrc ~/.zshrc
 ```
 # Install Plutins
 ## 1、https://github.com/junegunn/fzf   brew install fzf  
